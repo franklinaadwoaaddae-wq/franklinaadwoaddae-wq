@@ -12,7 +12,7 @@
 - Statistical Modeling, Causal Inference, Survey Data Analysis
 
 ## 📂 Featured Project
-👉 (thesis repo)
+👉 ([thesis repo](https://github.com/franklinaadwoaaddae-wq/aca-medicaid-thesis))
 
 ## 📫 Connect with Me
 - LinkedIn: (linkedin.com/in/franklina-a-246054160)
