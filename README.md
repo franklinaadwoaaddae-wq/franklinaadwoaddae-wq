@@ -12,7 +12,7 @@
 - Statistical Modeling, Causal Inference, Survey Data Analysis
 
 ## 📂 Featured Project
-👉 (link will go here once we create your thesis repo)
+👉 (thesis repo)
 
 ## 📫 Connect with Me
 - LinkedIn: (linkedin.com/in/franklina-a-246054160)
